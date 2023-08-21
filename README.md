@@ -1,5 +1,5 @@
-# dt
-Helper Data Science notebook codes/ explanations:
+
+Helper Data Science codes/ explanations:
 
 1st nb : Training and building neural network based embeddings for Text/Categorical data.
 <br>
