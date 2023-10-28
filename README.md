@@ -12,3 +12,6 @@ Helper Data Science codes/ explanations:
 3) Entity Embeddings for Categorical Variables - a comprehensive notebook using FastAI - <a href="https://github.com/adam-mehdi/EntityEmbeddingsTutorial/tree/main">Click here to view notebook </a>
 <br><br>
 4) Gradient Based One sided Sampling (GOSS) in LightGBM Aalgorithm which also controls imabalanced datasets (GOSS.md in files)
+<br> <br>
+5) Bert for Masked LM for training embeddings on any unlabeled text data (fine tuning) :
+Link to the <a href=https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/language_modeling.ipynb#scrollTo=Y9TFqDG_3l_e> Notebook </a>
